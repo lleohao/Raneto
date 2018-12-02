@@ -1,5 +1,5 @@
 {
-  "name": "raneto",
+  "name": "@lleohao/raneto",
   "version": "0.16.0",
   "description": "Markdown powered Knowledgebase",
   "author": "Gilbert Pellegrom <gilbert@pellegrom.me>",
@@ -55,7 +55,7 @@
     "jquery": "3.3.1",
     "jquery-backstretch": "2.1.16",
     "js-yaml": "3.12.0",
-    "lunr": "2.3.5",
+    "lunr": "git+ssh://git@github.com/codepiano/lunr.js.git",
     "lunr-languages": "1.0.0",
     "markdown-it": "8.4.2",
     "markdown-toc": "1.2.0",
