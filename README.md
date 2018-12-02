@@ -1,3 +1,5 @@
+> 添加中文支持
+
 Raneto [![](https://travis-ci.org/gilbitron/Raneto.svg?branch=master)](https://travis-ci.org/gilbitron/Raneto)
 ======
 
