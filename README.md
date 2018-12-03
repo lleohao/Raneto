@@ -1,6 +1,10 @@
 > 添加中文支持
+>
 > 使用 https://github.com/codepiano/lunr.js 替代依赖中的 lunr
+>
 > 注释了 lunr-language, 对中文搜索没什么帮助
+> 
+> 不出意外的话会跟随官方更新
 
 Raneto [![](https://travis-ci.org/gilbitron/Raneto.svg?branch=master)](https://travis-ci.org/gilbitron/Raneto)
 ======
